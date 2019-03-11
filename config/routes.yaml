@@ -1,0 +1,6 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+app_lucky_number:
+  path: /test/generate_number
+  controller: App\Controller\Test::generate_number
